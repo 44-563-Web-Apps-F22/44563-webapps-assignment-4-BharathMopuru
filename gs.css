@@ -24,6 +24,8 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     color: black;
+    text-shadow: 5px 1px lightgreen;
+    
 }
 .MAIDENS{
     color:darkgoldenrod;
@@ -45,6 +47,12 @@
 }
 .JANE{
     color: bisque;
+}
+.DUKE{
+    color: darkcyan;
+}
+.COLONEL{
+    color: blueviolet;
 }
 #Chorus{
     text-indent: 20%;
