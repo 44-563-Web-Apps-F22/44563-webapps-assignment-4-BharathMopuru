@@ -1,3 +1,3 @@
 # WebApps-F22-Assignment-4
 A practice assignment for HTML with CSS
-* [Hosted at](file:///C:/Users/s555694/Desktop/webapps-repos/44563-webapps-assignment-4-BharathMopuru/opera.html)
+* [Hosted at](https://github.com/44-563-Web-Apps-F22/44563-webapps-assignment-4-BharathMopuru/blob/main/opera.html)
