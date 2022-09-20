@@ -19,12 +19,15 @@
     color: red;
     background-color: beige;
 }
-.name{
+.name:hover{
     font: 100;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     color: black;
-    text-shadow: 5px 1px lightgreen;
+    text-shadow: 5px 3px 3px red;
+    border-style: dotted;
+    text-align: center;
+    border-color: chartreuse;
     
 }
 .MAIDENS{
