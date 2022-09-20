@@ -1,0 +1,64 @@
+.speech{
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+
+}
+.song{
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+
+}
+.direction:hover{
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    background-color: beige;
+}
+.name{
+    font: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+}
+.MAIDENS{
+    color: aliceblue;
+}
+.SAPHIR{
+    color:antiquewhite;
+}
+.ANGELA{
+    color: aqua;
+}
+.PATIENCE{
+    color: aquamarine;
+}
+.ELLA{
+    color: azure;
+}
+.DRAGOONS{
+    color: beige;
+}
+.JANE{
+    color: bisque;
+}
+#Chorus{
+    font-style: italic;
+
+}
+#girls{
+font-style: oblique;
+}
+.speech
+{
+ text-align: left;
+ text-decoration-color: darkslategray;
+}
+.song{
+    text-align: center;
+    text-decoration-color: lavender;
+}
