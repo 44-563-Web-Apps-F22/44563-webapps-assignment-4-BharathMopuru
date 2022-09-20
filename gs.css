@@ -66,3 +66,18 @@ color: palevioletred;
 
     text-decoration-color: lavender;
 }
+table{
+    border-collapse: collapse;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 1px;
+
+}
+th,td{
+    border: 1px solid black;
+}
+th{color: crimson;}
+tr:nth-child(odd){background-color: lightblue;}/*row stripes */
+tr:hover{color:olivedrab;}
