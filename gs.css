@@ -12,10 +12,13 @@
     color: black;
 
 }
-.direction:hover{
+.direction{
     font: 100;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
+    color: black;
+}
+.direction:hover {
     color: red;
     background-color: beige;
 }
@@ -57,12 +60,12 @@
 .COLONEL{
     color: blueviolet;
 }
-#Chorus{
+.Chorus{
     text-indent: 20%;
     font-style: italic;
 
 }
-#girls{
+.girls{
 font-style: oblique;
 color: palevioletred;
 
@@ -71,6 +74,7 @@ color: palevioletred;
 {
  text-align: left;
  text-decoration-color: darkslategray;
+ color: darkmagenta;
 }
 .song{
     text-indent: 20%;
