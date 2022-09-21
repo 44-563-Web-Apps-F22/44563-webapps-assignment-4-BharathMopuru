@@ -92,3 +92,24 @@ th,td{
 th{color: crimson;}
 tr:nth-child(odd){background-color: lightblue;}/*row stripes */
 tr:hover{color:olivedrab;}
+ul {
+    list-style-type: none;
+    margin: 50px;
+    padding: 0 ;
+    overflow: hidden;
+    
+  }
+  li a:hover{
+    color: lightyellow;
+    background-color: chocolate;
+    padding: 2%;
+    font-weight: bold;
+  }
+
+li a {
+    font-size: large;
+    float: left;
+    display:block;
+    padding: 10px;
+    background-color: lightyellow;
+  }
