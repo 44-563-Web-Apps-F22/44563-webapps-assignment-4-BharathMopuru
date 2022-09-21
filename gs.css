@@ -79,7 +79,7 @@ color: palevioletred;
 }
 table{
     border-collapse: collapse;
-    width: 100%;
+    width: 50%;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
@@ -89,7 +89,7 @@ table{
 th,td{
     border: 1px solid black;
 }
-th{color: crimson;}
+th{color: crimson; background-color: chartreuse;text-align: center;}
 tr:nth-child(odd){background-color: lightblue;}/*row stripes */
 tr:hover{color:olivedrab;}
 ul {
